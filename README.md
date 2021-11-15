@@ -17,8 +17,7 @@
 ### 와이어프레임
 ### 스토리보드
 ***
-## portFolio
-![포트폴리오]()  
+## portFolio 
 [개인포트폴리오](https://rtt1006-portfolio.github.io/Project-2/)  
 ![메가박스](./images/megabox.jpg)
 [메가박스](https://rtt1006-portfolio.github.io/Megabox/)  
