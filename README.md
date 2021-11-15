@@ -1,31 +1,30 @@
-# 반갑습니다! 
-## 박유진의 포토폴리오입니다:)
+# 홍길동의 포트폴리오에 오신것을 환영합니다.
+## 홍길동
 
 ### 학력
-* 가정고등학교 졸업
-* 건양대학교 의료IT공학과 자퇴
-* 서울사이버대학교 컴퓨터공학과 졸업 
+* 땡땡고등학교 졸업
+* 땡댕대학교 땡땡과 졸업
 
 ### 자격/경력
-* 운전면허 2종 보통
-* 정보처리기사 실기응시
-* 2021.02월 ~ 05월 블렌딩 게임개발 회사 인턴근무
-
+* 운전면허 1종 보통
+* 땡땡기능사
+* 2019.12.24~2021.1.1 땡댕 주식회사 근무
 ***
 ## Work Flow
 ### 아이디어
 ### 와이어프레임
 ### 스토리보드
 ***
-## portFolio 
-[개인포트폴리오](https://rtt1006-portfolio.github.io/Project-2/)  
+## portFolio
+![포트폴리오]()  
+[개인포트폴리오](https://pam7464.github.io/project-portfolio2/)  
 ![메가박스](./images/megabox.jpg)
-[메가박스](https://rtt1006-portfolio.github.io/Megabox/)  
+[메가박스](https://pam7464.github.io/megabox/)  
 ![한솔](./images/hansol.jpg)
-[한솔](https://rtt1006-portfolio.github.io/Hansole/)  
+[한솔](https://pam7464.github.io/hansol/)  
 ![할리스](./images/hollys.jpg)
-[할리스](https://github.com/rtt1006-portfolio/Hollys)  
+[할리스](https://pam7464.github.io/hollys/)  
 ![인디고](./images/indigo.jpg)
-[인디고](https://rtt1006-portfolio.github.io/Indigo/)  
+[인디고](https://pam7464.github.io/indigo/)  
 ![투어리스트](./images/tourist.jpg)
-[투어리스트](https://rtt1006-portfolio.github.io/Tourist/)
+[투어리스트](https://pam7464.github.io/tourist/)
