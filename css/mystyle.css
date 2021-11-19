@@ -66,7 +66,7 @@
             width:500px;
             height:500px;
         }
-        .swiper-slide::before,.swiper-slide::after{
+        /* .swiper-slide::before,.swiper-slide::after{
             content:'';
             display:block;
             position: absolute;
@@ -81,23 +81,24 @@
         @keyframes ani {
             0%{opacity:0;}
             1%{opacity:0.4;}
-            100%{opacity:0;transform:scale(0.8);}
+            100%{opacity:0;}
         }
         .swiper-slide-active::before{
             animation:ani 1s ;
         }
         @keyframes ani2 {
             0%{opacity:0;}
-            100%{opacity:0.4;transform:scale(1.0);}
-        }
+            100%{opacity:0.4;}
+        } */
         .swiper-slide-active::after{
             animation:ani2 0.5s 0.3S;
         }
         .inner-box{
+            margin: auto;
+            width:70%;
             height:100%;
             padding:20px;
-            background-color:#fff;
-            box-shadow:0 0 30px #fff; 
+            background-color:#fff; 
             position:relative;
             z-index:2;           
         }                      
@@ -138,7 +139,7 @@
             text-decoration:none;
         }
         .inner-box>.btn-box{
-            padding:60px 0.5px;
+            padding:20px 0.5px;
         }
 
 
@@ -161,8 +162,8 @@
         /* 페이지 네이션 */
         .swiper-pagination{
             position:absolute;
-            right:150px;
-            top:30px;
+            right:86px;
+            top:22px;
             left:auto;
             bottom:auto;
             width:auto;            
