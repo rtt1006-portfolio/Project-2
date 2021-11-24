@@ -6,7 +6,7 @@
 
 ## 사용가능기술
 * HTML5, CSS3, JQuery, 스프링게시판 구현
-* PothoShop, Illustrator, Premiere Pro, After Effect
+* PhothoShop, Illustrator, Premiere Pro, After Effect
 
 ## WORK FLOW
 ### 와이어프레임
