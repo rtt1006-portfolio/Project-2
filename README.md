@@ -10,15 +10,8 @@
 
 ## WORK FLOW
 ### 와이어프레임
-
-
-https://user-images.githubusercontent.com/93187201/143181458-ba407068-c2e2-4941-855d-e00f22f5bf8a.mp4
-
-
-https://user-images.githubusercontent.com/93187201/143181476-bc1b8944-4395-4e82-b1e2-77d8ef51085e.mp4
-
-
-
+https://user-images.githubusercontent.com/93187201/143181682-d8076ac8-9cff-4da5-b73b-e6ec3351bae4.mp4
+https://user-images.githubusercontent.com/93187201/143181689-36fb07a2-3472-4579-8b49-a34b1376fb74.mp4
 ### 스토리보드
 ![스토리보드](./images/img01.jpg)
 ### 무드보드
@@ -27,10 +20,10 @@ https://user-images.githubusercontent.com/93187201/143181476-bc1b8944-4395-4e82-
 ![키워드](./images/img03.jpg)
 
 ## PORTFOLIO
-[개인포트폴리오](https://rtt1006-portfolio.github.io/Project-2/)  
+[개인포트폴리오 디자인](https://rtt1006-portfolio.github.io/Project-2/)  
 ![모바일시안](./images/portfolio-m.png)
 ![데스크탑시안](./images/portfolio-p.png)
-![메가박스](./images/megabox-R.png)
+![메가박스](./images/magabox-R.png)
 [메가박스](https://rtt1006-portfolio.github.io/Megabox/)  
 ![한솔](./images/hansole-R.png)
 [한솔](https://rtt1006-portfolio.github.io/Hansole/)  
