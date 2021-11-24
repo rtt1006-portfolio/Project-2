@@ -34,7 +34,7 @@ https://user-images.githubusercontent.com/93187201/143181788-9e89ba25-17a6-461d-
 ![모바일시안](./images/portfolio-m.png)
 ### 데스크탑시안
 ![데스크탑시안](./images/portfolio-p.png)
-*
+### 포토폴리오 작업물 및 링크
 ![메가박스](./images/magabox-R.png)
 [메가박스](https://rtt1006-portfolio.github.io/Megabox/)  
 ![한솔](./images/hansole-R.png)
