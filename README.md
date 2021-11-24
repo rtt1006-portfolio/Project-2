@@ -30,8 +30,9 @@ https://user-images.githubusercontent.com/93187201/143181788-9e89ba25-17a6-461d-
 
 ## PORTFOLIO
 [개인포트폴리오 디자인](https://rtt1006-portfolio.github.io/Project-2/)  
+### 모바일시안
 ![모바일시안](./images/portfolio-m.png)
-*
+### 데스크탑시안
 ![데스크탑시안](./images/portfolio-p.png)
 *
 ![메가박스](./images/magabox-R.png)
