@@ -20,13 +20,13 @@
 
 ## PORTFOLIO
 [개인포트폴리오](https://rtt1006-portfolio.github.io/Project-2/)  
-![메가박스](./images/megabox.jpg)
+![메가박스](./images/megabox-R.jpg)
 [메가박스](https://rtt1006-portfolio.github.io/Megabox/)  
-![한솔](./images/hansol.jpg)
+![한솔](./images/hansol-R.jpg)
 [한솔](https://rtt1006-portfolio.github.io/Hansole/)  
-![할리스](./images/hollys.jpg)
+![할리스](./images/hollys-R.jpg)
 [할리스](https://github.com/rtt1006-portfolio/Hollys)  
-![인디고](./images/indigo.jpg)
+![인디고](./images/indigo-R.jpg)
 [인디고](https://rtt1006-portfolio.github.io/Indigo/)  
-![투어리스트](./images/tourist.jpg)
+![투어리스트](./images/tourist-R.jpg)
 [투어리스트](https://rtt1006-portfolio.github.io/Tourist/)
